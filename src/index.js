@@ -1,9 +1,10 @@
-import cli from './cli/cli.js'
 import { Vault }  from './services/vault.js'
 import {Db} from './storage/db.js';
 import { Command } from 'commander';
 import Logger from './services/logger.js';
 import inquirer from "inquirer";
+import cli from './cli/cli.js'
+
 
 
 const logger = new Logger(); //instantiate logger service
