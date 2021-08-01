@@ -1,0 +1,227 @@
+{
+  "dwellers": [
+    {
+      "name": "Elinor Pierce",
+      "ic_no": 0,
+      "dob": 1985,
+      "eye_color": "brown",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Bean Hurst",
+      "ic_no": 1,
+      "dob": 1983,
+      "eye_color": "green",
+      "hair_color": "black",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Combs Munoz",
+      "ic_no": 2,
+      "dob": 1982,
+      "eye_color": "brown",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Ballard Peterson",
+      "ic_no": 3,
+      "dob": 1956,
+      "eye_color": "blue",
+      "hair_color": "blonde",
+      "gender": "M",
+      "is_dead": true
+    },
+    {
+      "name": "Glover Melendez",
+      "ic_no": 4,
+      "dob": 2003,
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "gender": "F",
+      "is_dead": false
+    },
+    {
+      "name": "Fisher Winters",
+      "ic_no": 5,
+      "dob": 1952,
+      "eye_color": "brown",
+      "hair_color": "red",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Susie Snyder",
+      "ic_no": 6,
+      "dob": 1965,
+      "eye_color": "green",
+      "hair_color": "red",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Hatfield Skinner",
+      "ic_no": 7,
+      "dob": 1971,
+      "eye_color": "green",
+      "hair_color": "red",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Helena Wolfe",
+      "ic_no": 8,
+      "dob": 2005,
+      "eye_color": "green",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Manuela Guy",
+      "ic_no": 9,
+      "dob": 1955,
+      "eye_color": "brown",
+      "hair_color": "green",
+      "gender": "M",
+      "is_dead": true
+    },
+    {
+      "name": "Lou House",
+      "ic_no": 10,
+      "dob": 1950,
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Klein Terrell",
+      "ic_no": 11,
+      "dob": 1994,
+      "eye_color": "blue",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Bell Chase",
+      "ic_no": 12,
+      "dob": 1986,
+      "eye_color": "blue",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": false
+    },
+    {
+      "name": "Carly Lott",
+      "ic_no": 13,
+      "dob": 1958,
+      "eye_color": "brown",
+      "hair_color": "grey",
+      "gender": "M",
+      "is_dead": true
+    },
+    {
+      "name": "Bond Briggs",
+      "ic_no": 14,
+      "dob": 1959,
+      "eye_color": "blue",
+      "hair_color": "grey",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Burke Mcknight",
+      "ic_no": 15,
+      "dob": 1971,
+      "eye_color": "blue",
+      "hair_color": "grey",
+      "is_dead": false
+    },
+    {
+      "name": "Maura Downs",
+      "ic_no": 16,
+      "dob": 1978,
+      "eye_color": "blue",
+      "hair_color": "black",
+      "gender": "F",
+      "is_dead": false
+    },
+    {
+      "name": "Lara Hammond",
+      "ic_no": 17,
+      "dob": 1954,
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Margret Ruiz",
+      "ic_no": 18,
+      "dob": 1963,
+      "eye_color": "green",
+      "hair_color": "black",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Megan Kirk",
+      "ic_no": 19,
+      "dob": 1965,
+      "eye_color": "green",
+      "hair_color": "blonde",
+      "gender": "F",
+      "is_dead": true
+    },
+    {
+      "name": "Lara Doe",
+      "ic_no": 34,
+      "dob": 1992,
+      "eye_color": "blue",
+      "hair_color": "brown",
+      "gender": "F",
+      "is_dead": false
+    },
+    {
+      "name": "Henry brad",
+      "ic_no": "354",
+      "dob": "1985",
+      "eye_color": "brown",
+      "hair_color": "red",
+      "gender": "F",
+      "is_dead": false
+    },
+    {
+      "name": "Jane brad",
+      "ic_no": "412",
+      "dob": "1992",
+      "eye_color": "black",
+      "hair_color": "green",
+      "gender": "F",
+      "is_dead": false
+    },
+    {
+      "name": "Dogm freddy",
+      "ic_no": "415",
+      "dob": "1970",
+      "eye_color": "red",
+      "hair_color": "green",
+      "is_dead": false
+    },
+    {
+      "name": "Freddy",
+      "ic_no": "460",
+      "dob": "1956",
+      "eye_color": "red",
+      "hair_color": "green",
+      "is_dead": true
+    }
+  ],
+  "current_year": "2026"
+}

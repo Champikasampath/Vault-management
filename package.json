@@ -1,0 +1,36 @@
+{
+  "name": "vault",
+  "version": "1.0.0",
+  "description": "Vault management ",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine",
+    "lint": "eslint \"src/**/*.js\" --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/champikasampathbandara/vault-management.git"
+  },
+  "author": "Champika Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/champikasampathbandara/vault-management/issues"
+  },
+  "homepage": "https://gitlab.com/champikasampathbandara/vault-management#readme",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "esm": "^3.2.25",
+    "inquirer": "^8.1.2",
+    "lowdb": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "jasmine": "^3.8.0",
+    "jest": "^27.0.6",
+    "jsdoc": "^3.6.7"
+  },
+  "bin": {
+    "dweller": "src/index.js"
+  }
+}
