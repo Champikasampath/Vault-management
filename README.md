@@ -52,7 +52,7 @@ Searching support few functionalities.
     Search functionalities are currently limited to ``equal_to``, `less_than` and `like`. It can be expanded to 
     support other operations as well such as `greater_than`, `age equal_to`
 
-- #### Family Support
+- #### Family Support - Children Feature
 
     currently, system does not support tracking family members. Feature can be achieved using introducing family id and 
     map dwellers to the family and introducing family_member_type field to the JSON
